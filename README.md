@@ -54,3 +54,9 @@ It is being designed as a long-term educational framework that helps learners pr
 Development has officially started.
 
 Stay tuned.
+
+![Status](https://img.shields.io/badge/status-coming--soon-orange)
+
+![Version](https://img.shields.io/badge/version-v0.1-blue)
+
+![License](https://img.shields.io/badge/license-MIT-green)

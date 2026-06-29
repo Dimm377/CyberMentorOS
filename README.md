@@ -1,6 +1,6 @@
 #  Cyber Mentor OS
 
-> **Teach me until I no longer need you.**
+ ## **"Teach me until I no longer need you."**
 
 Cyber Mentor OS is an AI-powered learning operating system designed to mentor aspiring Network Engineers and Cyber Security professionals through deep understanding, hands-on practice, and structured learning.
 

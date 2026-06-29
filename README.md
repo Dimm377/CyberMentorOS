@@ -1,6 +1,6 @@
 #  Cyber Mentor OS
 
- ## **"Teach me until I no longer need you."**
+ **"Teach me until I no longer need you."**
 
 Cyber Mentor OS is an AI-powered learning operating system designed to mentor aspiring Network Engineers and Cyber Security professionals through deep understanding, hands-on practice, and structured learning.
 
@@ -47,13 +47,20 @@ It is being designed as a long-term educational framework that helps learners pr
 
 ---
 
+## 🌟 Long-term Goals
+
+- Become one of the best open-source AI learning frameworks for cybersecurity.
+- Help students learn through first-principles thinking.
+- Encourage ethical and responsible cybersecurity education.
+- Continuously evolve with the cybersecurity landscape.
+
 ## Status
 
 🚧 Coming Soon
 
 Development has officially started.
 
-Stay tuned.
+Stay tuned. 😊
 
 ![Status](https://img.shields.io/badge/status-coming--soon-orange)
 
